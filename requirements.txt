@@ -84,7 +84,7 @@ numpy==1.26.4
 omegaconf==2.3.0
 orjson==3.10.4
 packaging==24.1
-pandas==2.2.2
+pandas==1.5.3
 ydata-profiling==4.5.1
 pathspec==0.12.1
 pconst==1.0.0
